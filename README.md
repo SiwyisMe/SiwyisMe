@@ -52,7 +52,7 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiwyisMe&hide=contribs,issues&show_icons=true&theme=merko&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-three-navy-41.vercel.app/api?username=SiwyisMe&hide=contribs,issues&show_icons=true&theme=merko&hide_border=true" height="180" />
 </p>
 
 ---
